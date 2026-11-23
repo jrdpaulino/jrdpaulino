@@ -25,7 +25,7 @@ bring devices back onto real on-site networks.
 
 ## Music and medicine: a wider view of code
 
-Years of piano, percussion, harp, and operatic singing in school and at working gigs taught me to listen before I act, keep time with other people, and the value of practice and repetition. Working as a patient care technician on a busy medical-surgical unit, with up to 20 patients a shift and training to support code and crash teams, taught me to stay calm when something fails, triage what matters first, explain things plainly to worried people, and treat a checklist as a safety tool. Together they shape how I program: reading a system like a score, debugging like a clinician, and remembering that software is used by people in real situations and should be built with them in mind.
+Years of piano, percussion, harp, and operatic singing in school and at working gigs taught me to listen before I act, keep time with other people, and the value of practice and repetition. Working as a nursing student on a busy medical-surgical unit, with up to 20 patients a shift and training to support code and crash teams, taught me to stay calm when something fails, triage what matters first, explain things plainly to worried people, and treat a checklist as a safety tool. Together they shape how I program: reading a system like a score, debugging like a clinician, and remembering that software is used by people in real situations and should be built with them in mind.
 
 ## Experience
 
