@@ -7,21 +7,30 @@ Practitioner of People-Oriented Programming. Well versed in concept abstraction,
 collaboration, and public communication. Insatiable curiosity, with a love of learning for learning's sake.
 Lifelong instrumentalist and vocal performer.
 
-## What music and medicine bring to my code
+## Machine learning, AI and networking
 
-**Music.** Years of playing and singing in ensembles taught me to listen before I act, keep time with other people, and
-practise a hard passage slowly until it is clean. That carries straight into code: reading a system the way you read a
-score, holding structure and detail in mind together, and performing in front of an audience, which is what a code
-review or a demo is.
+My degree work centres on two things: how systems talk to each other, and how models learn from data.
 
-**Medicine and nursing support.** As a patient care technician on a busy medical-surgical unit, I looked after up to 20
-patients a shift, supported wound care and post-operative recovery, and trained to assist code and crash teams. It
-taught me to stay calm when something fails, to triage what matters first, to explain things plainly to people who are
-worried, and to treat a checklist as a safety tool. I bring the same habits to debugging, testing and writing software
-that people depend on.
+**Machine learning and AI.** Coursework in Machine Learning, Neural Network Design and Testing, Probability and
+Statistics and Game Theory, backed by projects I run and measure myself: an MLP against LeNet-5 on three image datasets
+in PyTorch, and a layered Markov model of the market cycle that scores every one of its own forecasts. I care less
+about a clever model than about whether it is tested honestly, which is why my trading research ends in a documented
+"no edge found". I also work daily with AI coding tools (Claude Code, GitHub Copilot) and treat them as collaborators
+whose output still has to be tested.
 
-Together they give me a wider view of what software is for: it is used by people, in real situations, and it should be
-built with that in mind.
+**Computer networking.** A Systems Networking focus, Computer Networks and Systems Programming at UT Dallas, plus
+hands-on telecom work as a Nokia 5G RAN intern: a tool to create, read, update and delete the XML configuration that
+brings 4G and 5G cells on-air, and a dashboard of live cell parameters. In the field I diagnose connection problems and
+bring devices back onto real on-site networks.
+
+## Music and medicine: a wider view of code
+
+Years of playing and singing in ensembles taught me to listen before I act, keep time with other people, and practise a
+hard passage slowly until it is clean. Working as a patient care technician on a busy medical-surgical unit, with up to
+20 patients a shift and training to support code and crash teams, taught me to stay calm when something fails, triage
+what matters first, explain things plainly to worried people, and treat a checklist as a safety tool. Together they
+shape how I program: reading a system like a score, debugging like a clinician, and remembering that software is used by
+people in real situations and should be built with them in mind.
 
 ## Experience
 
